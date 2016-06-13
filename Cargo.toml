@@ -3,6 +3,11 @@ name = "c-path"
 version = "0.1.0"
 authors = ["Ashley Williams <ashley666ashley@gmail.com>",
             "Steve Klabnik <steve@steveklabnik.com>"]
+description = "a crate for exposing rust Path methods to C"
+repository = "https://github.com/ashleygwilliams/c-path"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
 
 [lib]
 crate-type = ["staticlib"]
